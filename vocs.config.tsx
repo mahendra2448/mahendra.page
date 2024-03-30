@@ -29,7 +29,7 @@ export default defineConfig({
   topNav: [ 
     { text: 'Works', link: '/works', match: '/docs' }, 
     { text: 'Blog', link: '/blog' }, 
-    { text: 'CV', link: 'http://localhost:5173/Mahendra Dwi Syathi - Software Engineer - CV.pdf' }, 
+    { text: 'CV', link: 'https://mahendra.page/Mahendra Dwi Syathi - Software Engineer - CV.pdf' }, 
   ],
   socials: [ 
     { 
