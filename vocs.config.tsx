@@ -2,7 +2,7 @@ import { defineConfig } from 'vocs'
 
 export default defineConfig({
   iconUrl: '/logo.png', 
-  basePath: '/docs',
+  baseUrl: 'https://mahendra.page', 
   title: 'mahendra.page',
   description: "I'm a Software Engineer. Write in Go, PHP, and sometimes JS. Love classical music.",
   theme: { 
