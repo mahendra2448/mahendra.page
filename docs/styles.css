@@ -1,0 +1,15 @@
+img {
+    width: 350px;
+    border-radius: .5rem;
+    transition: all .2s;
+}
+
+@media screen and (max-width: 760px) {
+    img {
+        width: auto;
+    }
+}
+
+img:hover {
+    transform: scale(1.03);
+}
