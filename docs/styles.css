@@ -16,6 +16,7 @@ img:hover {
 
 .vocs_HomePage_title {
     font-weight: bold !important;
+    line-height: 1.25em;
     background-image: -webkit-linear-gradient(-60deg, #ebff32, #1CECED 85%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
